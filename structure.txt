@@ -1,0 +1,38 @@
+.
+├── dist
+├── node_modules
+├── src
+│   ├── assets
+│   ├── Components
+│   ├── Enums
+│   ├── Helpers
+│   ├── Hooks
+│   ├── Types
+│   ├── App.tsx
+│   ├── FantasyFootballEntry.tsx
+├── DefaultRootState.ts
+├── Reducers.ts
+├── package.json
+├── package-lock.json
+├── swa-cli.config.json
+├── deploy-fplhelper.yml
+├── package-lock.json
+├── package.json
+├── src
+│   ├── Account.tsx
+│   ├── App.tsx
+│   ├── Components
+│   ├── Enums
+│   ├── FantasyFootballEntry.tsx
+│   ├── Helpers
+│   ├── Hooks
+│   ├── Types
+│   ├── assets
+│   └── vite-env.d.ts
+├── structure.txt
+├── swa-cli.config.json
+├── test.py
+├── tsconfig.app.json
+├── tsconfig.json
+└── vite.config.ts
+
